@@ -74,7 +74,7 @@ Photo by <a href="https://unsplash.com/@dreamcatchlight?utm_source=unsplash&utm_
 ![MLOPS](glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg)  
 Photo by <a href="https://unsplash.com/@glenncarstenspeters?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Glenn Carstens-Peters</a> on <a href="https://unsplash.com/s/photos/machine-learning?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
-**`Tools:`** Python,AWS Sagemaker Pipelines & Sagemaker Projects,Vertex AI(GCP),Kubeflow,Airflow.    
+**`Tools:`** Python, Sagemaker Pipelines, Sagemaker Projects, Vertex AI(GCP), Kubeflow, Airflow.    
 **`Technology:`**  Machine Learning, Deep Learning.   
 
 ##### **Responsibility:**
