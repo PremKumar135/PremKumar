@@ -15,7 +15,7 @@
 > **This project is a music retrieval system which is detecting the instances of chorus section in the music recording. Generally, chorus section in the audio represents the most repetitive part in the song.**
 
 **`Tools:`** AWS EC2, Python, Docker, Flask.    
-**`Technology:`**  Machine Learning, Audio Processing, Image Processing.
+**`Technology:`**  Machine Learning, Audio Processing, Image Processing.  
 **`Algorithm:`** DBSCAN.  
 
 ##### **Responsibility:**
