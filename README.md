@@ -14,7 +14,7 @@
 ---
 > **This project is a music retrieval system which is detecting the instances of chorus section in the music recording. Generally, chorus section in the audio represents the most repetitive part in the song.**
 
-![chorus detection](kelly-sikkema-X-etICbUKec-unsplash.jpg)
+![chorus detection](kelly-sikkema-X-etICbUKec-unsplash.jpg)  
 Photo by <a href="https://unsplash.com/@kellysikkema?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kelly Sikkema</a> on <a href="https://unsplash.com/s/photos/audio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 **`Tools:`** AWS EC2, Python, Docker, Flask.    
