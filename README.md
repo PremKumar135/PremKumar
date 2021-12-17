@@ -1,4 +1,9 @@
-## Prem Kumar
+# Prem Kumar.K
+* Data Scientist *
+
+## Education
+* Bachelors of Technology in Mechanical Engineering, *Pondicherry University*, 2012-16, CGPA: *9.01/10*
+
 
 You can use the [editor on GitHub](https://github.com/PremKumar135/PremKumar/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
