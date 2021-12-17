@@ -35,6 +35,9 @@ Photo by <a href="https://unsplash.com/@kellysikkema?utm_source=unsplash&utm_med
 ---
 > **This project is a similar image retrieval system which is given an query image retrieving the similar images in the database of images.**
 
+![image_similarity](dietmar-ludmann-qs4j-39TaBQ-unsplash.jpg)  
+Photo by <a href="https://unsplash.com/@d13n?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Dietmar Ludmann</a> on <a href="https://unsplash.com/s/photos/cats?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
 **`Tools:`**  AWS EC2, python, Elastic Search, AWS Sagemaker.   
 **`Technology:`** Machine Learning, Deep Learning, Image Processing.    
 **`Algorithm:`** K-Nearest Neighbor, ResNet.    
@@ -49,6 +52,9 @@ Photo by <a href="https://unsplash.com/@kellysikkema?utm_source=unsplash&utm_med
 ### **Project 3: Bags Classifier**  
 ---
 > **This project focussed on image classification model which classifies the different type of bags of a single luxury brand inorder to automate the manual process.**
+
+![bags_classifier](diana-akhmetianova-nvQemFKRBUo-unsplash.jpg)  
+Photo by <a href="https://unsplash.com/@dreamcatchlight?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Diana Akhmetianova</a> on <a href="https://unsplash.com/s/photos/bags?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 **`Tools:`**  AWS EC2, python, AWS Sagemaker, AWS Rekognition.   
 **`Technology:`** Deep Learning, Image Processing.     
@@ -65,6 +71,9 @@ Photo by <a href="https://unsplash.com/@kellysikkema?utm_source=unsplash&utm_med
 ---
 > **This work purely focussed on MLOPS platform of different cloud vendors and their respective CI/CD capabilites and implement the features needed in Quantiphi MLOPS platform.**
 
+![MLOPS](glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg)  
+Photo by <a href="https://unsplash.com/@glenncarstenspeters?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Glenn Carstens-Peters</a> on <a href="https://unsplash.com/s/photos/machine-learning?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
 **`Tools:`** Python, AWS Sagemaker Pipelines, AWS Sagemaker Projects,  
              Vertex AI(GCP), Kubeflow, Airflow.    
 **`Technology:`**  Machine Learning, Deep Learning.   
@@ -78,6 +87,9 @@ Photo by <a href="https://unsplash.com/@kellysikkema?utm_source=unsplash&utm_med
 ### **Project 5: Pacing Rate Prediction**
 ---
 > **This project focussed on predicting the pacing rate which helps to make the number of outbound calls in a call center in a bank in order to optimize the work force in the campaign.**
+
+![pacing_rate](austin-distel-97HfVpyNR1M-unsplash.jpg)  
+Photo by <a href="https://unsplash.com/@austindistel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Austin Distel</a> on <a href="https://unsplash.com/s/photos/call-center?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 **`Tools:`** Python, MongoDB.    
 **`Technology:`** Machine Learning, Time Series.     
@@ -93,6 +105,9 @@ Photo by <a href="https://unsplash.com/@kellysikkema?utm_source=unsplash&utm_med
 ### **Project 6: Emotion Detection model**
 ---
 > **This project focussed on image classification model which classifies the different type of emotions of a human while playing the dart game in the entertainment center.**
+
+![emotion_detection](tengyart-dTgyj9okQ_w-unsplash.jpg)  
+Photo by <a href="https://unsplash.com/@tengyart?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tengyart</a> on <a href="https://unsplash.com/s/photos/emotion?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 **`Tools:`** AWS EC2, Python, Flask.   
 **`Technology:`** Deep Learning, Image Processing.    
@@ -111,6 +126,9 @@ Photo by <a href="https://unsplash.com/@kellysikkema?utm_source=unsplash&utm_med
 ---
 > **This project focusses on two image classification models where one model detects the gender and the other detects the age of the user for verification during the KYC on the bank.**
 
+![age_gender_det](nathan-dumlao-4_mJ1TbMK8A-unsplash.jpg)
+Photo by <a href="https://unsplash.com/@nate_dumlao?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nathan Dumlao</a> on <a href="https://unsplash.com/s/photos/family?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
 **`Tools:`** Python.   
 **`Technology:`** Deep Learning, Image Processing.    
 **`Algorithm:`** MobileNet for Face Detection, ResNet for Gender Detection.    
@@ -126,6 +144,9 @@ Photo by <a href="https://unsplash.com/@kellysikkema?utm_source=unsplash&utm_med
 ---
 > **This project focussed on extracting the stencil numbers in the tires of an automobile.**
 
+![stencil_number](nazim-zafri-4dNGik9Itfg-unsplash.jpg)  
+Photo by <a href="https://unsplash.com/@nazimzafri?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nazim Zafri</a> on <a href="https://unsplash.com/s/photos/tyre?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
 **`Tools:`** Python, AWS EC2.    
 **`Technology:`** Machine Learning, Image Processing, Deep Learning.     
 **`Algorithm:`** OCR.    
@@ -140,6 +161,9 @@ Photo by <a href="https://unsplash.com/@kellysikkema?utm_source=unsplash&utm_med
 ---
 > **This project focussed on extracting and verifying the signatures of a user in the bank.**
 
+![signature_verify](signature-pro-j5Qbe2TG6MU-unsplash.jpg)  
+Photo by <a href="https://unsplash.com/@signaturepro?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Signature Pro</a> on <a href="https://unsplash.com/s/photos/signature?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
 **`Tools:`** Python.   
 **`Technology:`**  Machine Learning, Deep Learning, Image Processing.    
 **`Algorithm:`** Yolov3, Siamese Network.   
@@ -152,6 +176,9 @@ Photo by <a href="https://unsplash.com/@kellysikkema?utm_source=unsplash&utm_med
 ### **Project 10: Prediction of Best Tool**
 ---
 > **This project focussed on predicting the best tool for the manufacturing process under given operating conditions.**
+
+![Best_tool](greg-rosenke-xoxnfVIE7Qw-unsplash.jpg)  
+Photo by <a href="https://unsplash.com/@greg_rosenke?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Greg Rosenke</a> on <a href="https://unsplash.com/s/photos/manufacturing?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 **`Tools:`** Python.   
 **`Technology:`** Machine Learning, Natural Language Processing.    
