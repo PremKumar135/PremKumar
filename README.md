@@ -1,6 +1,13 @@
-![photo](imgonline-com-ua-resize-iMFL6lyMCZaC3.jpg) 
-# **Prem Kumar.K**  
-*Data Scientist | Experience: 4+ yrs* 
+<!-- ![photo](mine.jpg)   -->
+<img style="float: right;" src="imgonline-com-ua-resize-iMFL6lyMCZaC3__01.jpg">  
+
+# **Prem Kumar.K**
+*Data Scientist | Experience: 4+ yrs*  
+
+#### **Reach out to me:**
+**`Email:`** premkumar.kaliyamoorthy@gmail.com  
+**`Contact:`** 8838787234  
+**`LinkedIn:`** https://www.linkedin.com/in/prem-kumar-870820133
 
 ### **Professional Experience:**
 1. `Quantiphi Analytics Pvt Ltd` , *Mar,2021 - Present*
