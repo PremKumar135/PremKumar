@@ -24,11 +24,10 @@ Photo by <a href="https://unsplash.com/@kellysikkema?utm_source=unsplash&utm_med
 ##### **Responsibility:**
 * Given an audio, convert the audio into time-time similarity matrix and time-lag similarity matrix using  chorma features.
 * Smoothing and binarize the similarity matrix using image processing techniques
-* Finding the clusters using in the binarized image which represents the similar parts in the audio.
-* Finding the matching chorus using python
-* Trim the found choruses from the audio and split the audio into vocal component and Accompaniment component
-* After splitting the audio, finding the presence of voice using Spectral Energy.
-* The model is packaged into docker container and the model package is published in the AWS MarketPlace.
+* Finding the clusters in the processed image which represents the similar parts in the audio.
+* Finding the matching chorus and trim the found choruses from the audio and split the audio into vocal component and Accompaniment component.
+* Finding the presence of voice using Spectral Energy.
+* Packaged the model into docker container and it is published in the AWS MarketPlace.
 
 
 ### **Project 2: Similar Image Retrieval** 
@@ -45,9 +44,8 @@ Photo by <a href="https://unsplash.com/@d13n?utm_source=unsplash&utm_medium=refe
 ##### **Responsibility:**
 * The task here is to given a query image retrieving all the similar images in the database.
 * Used ResNet to find the encoding of all the available images in the dataset.
-* Upload all the image feature encodings in the AWS ElasticSearch with unique id for each image.
-* Now, given a query image, found the ResNet model to find out the encodings of the query image and used elastic search KNN to find the k nearest neighbors
-* Those K neighbors will be the similar images for the given query image.
+* Uploaded all the image feature encodings in the AWS ElasticSearch with unique id for each image.
+* Given a query image, find the encoding using the ResNet model and used elastic search KNN to find the k nearest neighbors.
 
 ### **Project 3: Bags Classifier**  
 ---
@@ -96,9 +94,8 @@ Photo by <a href="https://unsplash.com/@austindistel?utm_source=unsplash&utm_med
 ##### **Responsibility:**
 * The task here is to predict the pacing rate in order to automate the manual change of pacing rate in the call center application of the bank. 
 * Pacing rate determines how many outbound calls to dial for the particular time.
-* Used basic data explanatory analysis and time series analysis to find out the call acceptance pattern and time taken by the caller to accept and other features.
-* Using those features, built a formula that can predict the pacing rate for the particular time.
-* Built a script that can dynamically predict the pacing rate based on those features.
+* Did explanatory data analysis and time series analysis to find out the call acceptance pattern and time taken by the caller to accept and other features.
+* Built a formula that can predict the pacing rate and created a script that can dynamically predict the pacing rate for the particular time using those features.
 * Deployed the script in the production and used cron to scheduled based on needs.
 
 ### **Project 6: Emotion Detection model**
@@ -136,8 +133,7 @@ Photo by <a href="https://unsplash.com/@nate_dumlao?utm_source=unsplash&utm_medi
 * The task here is to predict the gender of the user and predicting the age of the user the verification during the KYC process.
 * Collected dataset from various resources for both the application and received from client as well.
 * Implemented different techniques to counter the imbalanced dataset as the data was imbalanced.
-* Used multi-threading techniques to run both the model since one model doesn't depend on other.
-* Deployed in the production on-prem devices in the bank.
+* Used multi-threading techniques to run both the model and deployed the model in the production on-prem devices in the bank.
 
 ### **Project 8: Stencil Number Extraction**
 ---
@@ -185,7 +181,7 @@ Photo by <a href="https://unsplash.com/@greg_rosenke?utm_source=unsplash&utm_med
 
 ##### **Responsibility:**
 * The task here is to predict the best tool for the manufacturing process under certain operating conditions.
-* Given the text document, built a features using regex and Natural language processing and save it as csv.
+* Given the text document, extract a features using regex and Natural language processing and save it as csv.
 * Tried different machine learning algorithm to figure out which model performs better for our metric.
 * Deployed the model into the production on on-prem devices.
 
