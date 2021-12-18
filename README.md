@@ -7,7 +7,7 @@
 #### **Reach out to me:**
 **`Email:`** premkumar.kaliyamoorthy@gmail.com  
 **`Contact:`** 8838787234  
-**`LinkedIn:`** https://www.linkedin.com/in/prem-kumar-870820133
+**`LinkedIn:`** [click here](https://www.linkedin.com/in/prem-kumar-870820133)
 
 ### **Professional Experience:**
 1. `Quantiphi Analytics Pvt Ltd` , *Mar,2021 - Present*
