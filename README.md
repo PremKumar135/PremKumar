@@ -128,9 +128,9 @@ Photo by <a href="https://unsplash.com/@tengyart?utm_source=unsplash&utm_medium=
 
 ### **Project 7: Age and Gender Detection**
 ---
-> **This project focuses on two image classification models where one model detects the gender and the other detects the age of the user for verification during the KYC on the bank.**
+> **This project focuses on two image classification models where one model detects the gender and the other detects the age of the user for verification of user during the KYC process in the bank.**  
 
-![age_gender_det](nathan-dumlao-4_mJ1TbMK8A-unsplash.jpg)
+![age_gender_det](nathan-dumlao-4_mJ1TbMK8A-unsplash.jpg)  
 Photo by <a href="https://unsplash.com/@nate_dumlao?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nathan Dumlao</a> on <a href="https://unsplash.com/s/photos/family?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 **`Tools:`** Python.   
