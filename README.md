@@ -40,7 +40,7 @@ Photo by <a href="https://unsplash.com/@kellysikkema?utm_source=unsplash&utm_med
 
 ### **Project 2: Similar Image Retrieval** 
 ---
-> **This project is a similar image retrieval system which is given an query image retrieving the similar images in the database of images.**
+> **This project is a similar image retrieval system which is, given a query image retrieving the similar images in the database of images.**
 
 ![image_similarity](dietmar-ludmann-qs4j-39TaBQ-unsplash.jpg)  
 Photo by <a href="https://unsplash.com/@d13n?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Dietmar Ludmann</a> on <a href="https://unsplash.com/s/photos/cats?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
@@ -57,7 +57,7 @@ Photo by <a href="https://unsplash.com/@d13n?utm_source=unsplash&utm_medium=refe
 
 ### **Project 3: Bags Classifier**  
 ---
-> **This project focussed on image classification model which classifies the different type of bags of a single luxury brand inorder to automate the manual process.**
+> **Focused on image classification model which classifies the different type of bags of a single luxury brand inorder to automate the manual process.**
 
 ![bags_classifier](diana-akhmetianova-nvQemFKRBUo-unsplash.jpg)  
 Photo by <a href="https://unsplash.com/@dreamcatchlight?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Diana Akhmetianova</a> on <a href="https://unsplash.com/s/photos/bags?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
@@ -75,7 +75,7 @@ Photo by <a href="https://unsplash.com/@dreamcatchlight?utm_source=unsplash&utm_
 
 ### **Project 4: MLOPS capabilities**
 ---
-> **This work purely focussed on MLOPS platform of different cloud vendors and their respective CI/CD capabilites and implement the features needed in Quantiphi MLOPS platform.**
+> **This work purely focused on MLOPS platform of different cloud vendors and their respective CI/CD capabilites and implement the features needed in Quantiphi MLOPS platform.**
 
 ![MLOPS](glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg)  
 Photo by <a href="https://unsplash.com/@glenncarstenspeters?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Glenn Carstens-Peters</a> on <a href="https://unsplash.com/s/photos/machine-learning?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
@@ -91,7 +91,7 @@ Photo by <a href="https://unsplash.com/@glenncarstenspeters?utm_source=unsplash&
 
 ### **Project 5: Pacing Rate Prediction**
 ---
-> **This project focussed on predicting the pacing rate which helps to make the number of outbound calls in a call center in a bank in order to optimize the work force in the campaign.**
+> **This project focused on predicting the pacing rate which helps to make the number of outbound calls in a call center in a bank in order to optimize the work force in the campaign.**
 
 ![pacing_rate](austin-distel-97HfVpyNR1M-unsplash.jpg)  
 Photo by <a href="https://unsplash.com/@austindistel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Austin Distel</a> on <a href="https://unsplash.com/s/photos/call-center?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
@@ -104,11 +104,11 @@ Photo by <a href="https://unsplash.com/@austindistel?utm_source=unsplash&utm_med
 * Pacing rate determines how many outbound calls to dial for the particular time.
 * Did explanatory data analysis and time series analysis to find out the call acceptance pattern and time taken by the caller to accept and other features.
 * Built a formula that can predict the pacing rate and created a script that can dynamically predict the pacing rate for the particular time using those features.
-* Deployed the script in the production and used cron to scheduled based on needs.
+* Deployed the script in the production and used cron to scheduled it.
 
 ### **Project 6: Emotion Detection model**
 ---
-> **This project focussed on image classification model which classifies the different type of emotions of a human while playing the dart game in the entertainment center.**
+> **This project focused on image classification model which classifies the different type of emotions of a human while playing the dart game in the entertainment center.**
 
 ![emotion_detection](tengyart-dTgyj9okQ_w-unsplash.jpg)  
 Photo by <a href="https://unsplash.com/@tengyart?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tengyart</a> on <a href="https://unsplash.com/s/photos/emotion?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
@@ -128,7 +128,7 @@ Photo by <a href="https://unsplash.com/@tengyart?utm_source=unsplash&utm_medium=
 
 ### **Project 7: Age and Gender Detection**
 ---
-> **This project focusses on two image classification models where one model detects the gender and the other detects the age of the user for verification during the KYC on the bank.**
+> **This project focuses on two image classification models where one model detects the gender and the other detects the age of the user for verification during the KYC on the bank.**
 
 ![age_gender_det](nathan-dumlao-4_mJ1TbMK8A-unsplash.jpg)
 Photo by <a href="https://unsplash.com/@nate_dumlao?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nathan Dumlao</a> on <a href="https://unsplash.com/s/photos/family?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
@@ -138,14 +138,14 @@ Photo by <a href="https://unsplash.com/@nate_dumlao?utm_source=unsplash&utm_medi
 **`Algorithm:`** MobileNet for Face Detection, ResNet for Gender Detection.    
 
 ##### **Responsibility:**
-* The task here is, predict the gender of the user and predicting the age of the user the verification during the KYC process.
+* The task here is, predict the gender and age of the user to verify during the KYC process.
 * Collected dataset from various resources for both the application and received from client as well.
 * Implemented different techniques to counter the imbalanced dataset as the data was imbalanced.
 * Used multi-threading techniques to run both the model and deployed the model in the production on-prem devices in the bank.
 
 ### **Project 8: Stencil Number Extraction**
 ---
-> **This project focussed on extracting the stencil numbers in the tires of an automobile.**
+> **This project focused on extracting the stencil numbers in the tires of an automobile.**
 
 ![stencil_number](nazim-zafri-4dNGik9Itfg-unsplash.jpg)  
 Photo by <a href="https://unsplash.com/@nazimzafri?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nazim Zafri</a> on <a href="https://unsplash.com/s/photos/tyre?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
@@ -162,7 +162,7 @@ Photo by <a href="https://unsplash.com/@nazimzafri?utm_source=unsplash&utm_mediu
 
 ### **Project 9: Extract and Verify Signatures**
 ---
-> **This project focussed on extracting and verifying the signatures of a user in the bank.**
+> **This project focused on extracting and verifying the signatures of a user in the bank.**
 
 ![signature_verify](signature-pro-j5Qbe2TG6MU-unsplash.jpg)  
 Photo by <a href="https://unsplash.com/@signaturepro?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Signature Pro</a> on <a href="https://unsplash.com/s/photos/signature?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
@@ -178,7 +178,7 @@ Photo by <a href="https://unsplash.com/@signaturepro?utm_source=unsplash&utm_med
 
 ### **Project 10: Prediction of Best Tool**
 ---
-> **This project focussed on predicting the best tool for the manufacturing process under given operating conditions.**
+> **This project focused on predicting the best tool for the manufacturing process under given operating conditions.**
 
 ![Best_tool](greg-rosenke-xoxnfVIE7Qw-unsplash.jpg)  
 Photo by <a href="https://unsplash.com/@greg_rosenke?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Greg Rosenke</a> on <a href="https://unsplash.com/s/photos/manufacturing?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
