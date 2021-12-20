@@ -50,7 +50,7 @@ Photo by <a href="https://unsplash.com/@d13n?utm_source=unsplash&utm_medium=refe
 **`Algorithm:`** K-Nearest Neighbor, ResNet.    
 
 ##### **Responsibility:**
-* The task here is to given a query image retrieving all the similar images in the database.
+* The task here is, given a query image retrieving all the similar images in the database.
 * Used ResNet to find the encoding of all the available images in the dataset.
 * Uploaded all the image feature encodings in the AWS ElasticSearch with unique id for each image.
 * Given a query image, find the encoding using the ResNet model and used elastic search KNN to find the k nearest neighbors.
@@ -85,9 +85,9 @@ Photo by <a href="https://unsplash.com/@glenncarstenspeters?utm_source=unsplash&
 
 ##### **Responsibility:**
 * The task here is to research the MLOPS capabilities of AWS Sagemaker and GCP's Vertex AI.
-* Implemented a basic model using Sagemaker pipelines and Sagemaker projects to understaned the inner workings of CI-CD on AWS platform
-* Implemented a basic model using Vertex AI pipelines and Kubeflow pipeliens and the CI-CD capabilties in GCP.
-* Implemented a processing step, Algorithm step to create a pipeline for computer vision model in the Quantiphi MLOPS platform and orchaestrated the workflow using Airflow.
+* Implemented a basic model using Sagemaker pipelines and Sagemaker projects to understand the inner workings of CI-CD on AWS platform
+* Implemented a basic model using Vertex AI pipelines and Kubeflow pipelines and the CI-CD capabilties in GCP.
+* Implemented a processing step, Algorithm step to create a pipeline for computer vision model in the Quantiphi MLOPS platform and orchestrated the workflow using Airflow.
 
 ### **Project 5: Pacing Rate Prediction**
 ---
@@ -118,7 +118,7 @@ Photo by <a href="https://unsplash.com/@tengyart?utm_source=unsplash&utm_medium=
 **`Algorithm:`** Xception Network.    
 
 ##### **Responsibility:**
-* The task here is to predict the emotion of the players playing the dart game in entertainment center.
+* The task here is, predict the emotion of the players playing the dart game in entertainment center.
 * Collected the images using the camera used to shoot the players while playing the game
 * Used different augmentation techniques to create more data for the training
 * Tried different face detection model to find out the best face detection system since the camera is nearly 2 metres away from the user.
@@ -138,7 +138,7 @@ Photo by <a href="https://unsplash.com/@nate_dumlao?utm_source=unsplash&utm_medi
 **`Algorithm:`** MobileNet for Face Detection, ResNet for Gender Detection.    
 
 ##### **Responsibility:**
-* The task here is to predict the gender of the user and predicting the age of the user the verification during the KYC process.
+* The task here is, predict the gender of the user and predicting the age of the user the verification during the KYC process.
 * Collected dataset from various resources for both the application and received from client as well.
 * Implemented different techniques to counter the imbalanced dataset as the data was imbalanced.
 * Used multi-threading techniques to run both the model and deployed the model in the production on-prem devices in the bank.
@@ -155,7 +155,7 @@ Photo by <a href="https://unsplash.com/@nazimzafri?utm_source=unsplash&utm_mediu
 **`Algorithm:`** OCR.    
 
 ##### **Responsibility:**
-* The task here is to extract the stencil number in the given image which contains tyres.
+* The task here is, extract the stencil number in the given image which contains tyres.
 * Tried different image processing techniques like smoothing, binarizing, edge detection, skew correction, dewaring, etc to extract the words out of it.
 * Tried to use AWS Textract and AWS rekognition to extract the words out of the image
 * Tried OCR techniques like EasyOCR, pytesseract to extract the text out of the images.
@@ -172,7 +172,7 @@ Photo by <a href="https://unsplash.com/@signaturepro?utm_source=unsplash&utm_med
 **`Algorithm:`** Yolov3, Siamese Network.   
 
 ##### **Responsibility:**
-* The task here is to extract the signature and verify the signature with the original signature
+* The task here is, extract the signature and verify the signature with the original signature
 * Trained Yolov3 to extract the signatures from the given image
 * Trained a siamese network model to verify whether both the images are similar or not.
 
@@ -188,7 +188,7 @@ Photo by <a href="https://unsplash.com/@greg_rosenke?utm_source=unsplash&utm_med
 **`Algorithm:`** Logistic Regression.    
 
 ##### **Responsibility:**
-* The task here is to predict the best tool for the manufacturing process under certain operating conditions.
+* The task here is, predict the best tool for the manufacturing process under certain operating conditions.
 * Given the text document, extract a features using regex and Natural language processing and save it as csv.
 * Tried different machine learning algorithm to figure out which model performs better for our metric.
 * Deployed the model into the production on on-prem devices.
