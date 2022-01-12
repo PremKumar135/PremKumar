@@ -1,24 +1,31 @@
 <!-- ![photo](mine.jpg)   -->
 <img style="float: right;" src="imgonline-com-ua-resize-iMFL6lyMCZaC3__01.jpg">  
 
-# **Prem Kumar.K**
+# **PREM KUMAR.K**
 *Data Scientist | Experience: 4+ yrs*  
 
-#### **Reach out to me:**
-**`Email:`** premkumar.kaliyamoorthy@gmail.com  
+#### **REACH ME:**
+**`Email:`** premkumarkaliyamoorthy@gmail.com  
 **`Contact:`** 8838787234  
-**`LinkedIn:`** [click here](https://www.linkedin.com/in/prem-kumar-870820133)
+**`LinkedIn:`** [https://www.linkedin.com/in/prem-kumar-870820133](https://www.linkedin.com/in/prem-kumar-870820133)
 
-### **Professional Experience:**
+### **PROFESSIONAL EXPERIENCE:**
 1. `Quantiphi Analytics Pvt Ltd` , *Mar,2021 - Present*
 2. `Kryptos Technologies Pvt Ltd` , *Nov,2019 - Nov,2020*
 3. `Tata Consultancy Services` , *Jan,2017 - Mar, 2019*
 
-### **Education:**
+### **EDUCATION:**
 * B.Tech in Mechanical Engineering, *Pondicherry University*, 2012-16, CGPA: *9.01/10*
 
+### **SKILLS:**
+1. `Languages:` Python.
+2. `Frameworks:` Flask, Scikit-Learn, Keras, Tensorflow, river.
+3. `Tools:` Git, SQL, Sagemaker, Docker, Airflow, MongoDB, Kubeflow, Mlflow, ElasticSearch.
+4. `Cloud:` AWS & its services.
+5. `Technologies:` Machine Learning, Deep Learning, Computer Vision, Natural Language Processing.
+6. `Major Libraries:` Numpy, Pandas, Matplotlib, Seaborn, cv2, NLTK, Librosa, BeautifulSoup, Dask, Plotly.
 
-### **Project 1: Chorus Detection**  
+ ### **PROJECT 1: CHORUS DETECTION**  
 ---
 > **This project is a music retrieval system which is detecting the instances of chorus section in the music recording. Generally, chorus section in the audio represents the most repetitive part in the song.**
 
@@ -38,7 +45,7 @@ Photo by <a href="https://unsplash.com/@kellysikkema?utm_source=unsplash&utm_med
 * Packaged the model into docker container and it is published in the AWS MarketPlace.
 
 
-### **Project 2: Similar Image Retrieval** 
+### **PROJECT 2: SIMILAR IMAGES RETRIEVAL** 
 ---
 > **This project is a similar image retrieval system which is, given a query image retrieving the similar images in the database of images.**
 
@@ -55,7 +62,7 @@ Photo by <a href="https://unsplash.com/@d13n?utm_source=unsplash&utm_medium=refe
 * Uploaded all the image feature encodings in the AWS ElasticSearch with unique id for each image.
 * Given a query image, find the encoding using the ResNet model and used elastic search KNN to find the k nearest neighbors.
 
-### **Project 3: Bags Classifier**  
+### **PROJECT 3: BAGS CLASSIFIER**  
 ---
 > **Focused on image classification model which classifies the different type of bags of a single luxury brand inorder to automate the manual process.**
 
@@ -73,7 +80,7 @@ Photo by <a href="https://unsplash.com/@dreamcatchlight?utm_source=unsplash&utm_
 * Explained to the client about this two models, their corresponding metrics and the cost requirements of using this model and suggest which can be least expensive.
 * Deployed the sagemaker model using sagemaker endpoint.
 
-### **Project 4: MLOPS capabilities**
+### **PROJECT 4: MLOPS PLATFORM**
 ---
 > **This work purely focused on MLOPS platform of different cloud vendors and their respective CI/CD capabilites and implement the features needed in Quantiphi MLOPS platform.**
 
@@ -89,7 +96,7 @@ Photo by <a href="https://unsplash.com/@glenncarstenspeters?utm_source=unsplash&
 * Implemented a basic model using Vertex AI pipelines and Kubeflow pipelines and the CI-CD capabilties in GCP.
 * Implemented a processing step, Algorithm step to create a pipeline for computer vision model in the Quantiphi MLOPS platform and orchestrated the workflow using Airflow.
 
-### **Project 5: Pacing Rate Prediction**
+### **PROJECT 5: PACING RATE PREDICTION**
 ---
 > **This project focused on predicting the pacing rate which helps to make the number of outbound calls in a call center in a bank in order to optimize the work force in the campaign.**
 
@@ -106,7 +113,7 @@ Photo by <a href="https://unsplash.com/@austindistel?utm_source=unsplash&utm_med
 * Built a formula that can predict the pacing rate and created a script that can dynamically predict the pacing rate for the particular time using those features.
 * Deployed the script in the production and used cron to scheduled it.
 
-### **Project 6: Emotion Detection model**
+### **PROJECT 6: EMOTION DETECTION MODEL**
 ---
 > **This project focused on image classification model which classifies the different type of emotions of a human while playing the dart game in the entertainment center.**
 
@@ -126,7 +133,7 @@ Photo by <a href="https://unsplash.com/@tengyart?utm_source=unsplash&utm_medium=
 * Used tflite to reduce the model size to deploy the model in the on-prem devices.
 * Built a Flask API to predict emotion in the given image and sent the image for the next process of making the highlights video of the good moments during the play.
 
-### **Project 7: Age and Gender Detection**
+### **PROJECT 7: AGE & GENDER DETECTION**
 ---
 > **This project focuses on two image classification models where one model detects the gender and the other detects the age of the user for verification of user during the KYC process in the bank.**  
 
@@ -143,7 +150,7 @@ Photo by <a href="https://unsplash.com/@nate_dumlao?utm_source=unsplash&utm_medi
 * Implemented different techniques to counter the imbalanced dataset as the data was imbalanced.
 * Used multi-threading techniques to run both the model and deployed the model in the production on-prem devices in the bank.
 
-### **Project 8: Stencil Number Extraction**
+### **PROJECT 8: STENCIL NUMBER EXTRACTION**
 ---
 > **This project focused on extracting the stencil numbers in the tires of an automobile.**
 
@@ -160,7 +167,7 @@ Photo by <a href="https://unsplash.com/@nazimzafri?utm_source=unsplash&utm_mediu
 * Tried to use AWS Textract and AWS rekognition to extract the words out of the image
 * Tried OCR techniques like EasyOCR, pytesseract to extract the text out of the images.
 
-### **Project 9: Extract and Verify Signatures**
+### **PROJECT 9: EXTRACT & VERIFY SIGNATURES**
 ---
 > **This project focused on extracting and verifying the signatures of a user in the bank.**
 
@@ -176,7 +183,7 @@ Photo by <a href="https://unsplash.com/@signaturepro?utm_source=unsplash&utm_med
 * Trained Yolov3 to extract the signatures from the given image
 * Trained a siamese network model to verify whether both the images are similar or not.
 
-### **Project 10: Prediction of Best Tool**
+### **PROJECT 10: PREDICTION OF BEST TOOL**
 ---
 > **This project focused on predicting the best tool for the manufacturing process under given operating conditions.**
 
