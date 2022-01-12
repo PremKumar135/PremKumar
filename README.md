@@ -18,12 +18,12 @@
 * B.Tech in Mechanical Engineering, *Pondicherry University*, 2012-16, CGPA: *9.01/10*
 
 ### **SKILLS:**
-1. `Languages:` Python.
-2. `Frameworks:` Flask, Scikit-Learn, Keras, Tensorflow, river.
-3. `Tools:` Git, SQL, Sagemaker, Docker, Airflow, MongoDB, Kubeflow, Mlflow, ElasticSearch.
-4. `Cloud:` AWS & its services.
-5. `Technologies:` Machine Learning, Deep Learning, Computer Vision, Natural Language Processing.
-6. `Major Libraries:` Numpy, Pandas, Matplotlib, Seaborn, cv2, NLTK, Librosa, BeautifulSoup, Dask, Plotly.
+1. `Languages       :` Python.
+2. `Frameworks      :` Flask, Scikit-Learn, Keras, Tensorflow, river.
+3. `Tools           :` Git, SQL, Sagemaker, Docker, Airflow, MongoDB, Kubeflow, Mlflow, ElasticSearch.
+4. `Cloud           :` AWS & its services.
+5. `Technologies    :` Machine Learning, Deep Learning, Computer Vision, NLP.
+6. `Major Libraries :` Numpy, Pandas, Matplotlib, Seaborn, cv2, NLTK, Librosa, BeautifulSoup, Dask.
 
  ### **PROJECT 1: CHORUS DETECTION**  
 ---
@@ -32,11 +32,11 @@
 ![chorus detection](kelly-sikkema-X-etICbUKec-unsplash.jpg)  
 Photo by <a href="https://unsplash.com/@kellysikkema?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kelly Sikkema</a> on <a href="https://unsplash.com/s/photos/audio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
-**`Tools:`** AWS EC2, Python, Docker, Flask.    
-**`Technology:`**  Machine Learning, Audio Processing, Image Processing.  
-**`Algorithm:`** DBSCAN.  
+**`Tools      :`** AWS EC2, Python, Docker, Flask.    
+**`Technology :`** Machine Learning, Audio Processing, Image Processing.  
+**`Algorithm  :`** DBSCAN.  
 
-##### **Responsibility:**
+##### **RESPONSIBILITIES:**
 * Given an audio, convert the audio into time-time similarity matrix and time-lag similarity matrix using  chorma features.
 * Smoothing and binarize the similarity matrix using image processing techniques
 * Finding the clusters in the processed image which represents the similar parts in the audio.
@@ -52,11 +52,11 @@ Photo by <a href="https://unsplash.com/@kellysikkema?utm_source=unsplash&utm_med
 ![image_similarity](dietmar-ludmann-qs4j-39TaBQ-unsplash.jpg)  
 Photo by <a href="https://unsplash.com/@d13n?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Dietmar Ludmann</a> on <a href="https://unsplash.com/s/photos/cats?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
-**`Tools:`**  AWS EC2, python, Elastic Search, AWS Sagemaker.   
-**`Technology:`** Machine Learning, Deep Learning, Image Processing.    
-**`Algorithm:`** K-Nearest Neighbor, ResNet.    
+**`Tools      :`** AWS EC2, python, Elastic Search, AWS Sagemaker.   
+**`Technology :`** Machine Learning, Deep Learning, Image Processing.    
+**`Algorithm  :`** K-Nearest Neighbor, ResNet.    
 
-##### **Responsibility:**
+##### **RESPONSIBILITIES:**
 * The task here is, given a query image retrieving all the similar images in the database.
 * Used ResNet to find the encoding of all the available images in the dataset.
 * Uploaded all the image feature encodings in the AWS ElasticSearch with unique id for each image.
@@ -69,11 +69,11 @@ Photo by <a href="https://unsplash.com/@d13n?utm_source=unsplash&utm_medium=refe
 ![bags_classifier](diana-akhmetianova-nvQemFKRBUo-unsplash.jpg)  
 Photo by <a href="https://unsplash.com/@dreamcatchlight?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Diana Akhmetianova</a> on <a href="https://unsplash.com/s/photos/bags?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
-**`Tools:`**  AWS EC2, python, AWS Sagemaker, AWS Rekognition.   
-**`Technology:`** Deep Learning, Image Processing.     
-**`Algorithm:`** ResNet.    
+**`Tools      :`** AWS EC2, python, AWS Sagemaker, AWS Rekognition.   
+**`Technology :`** Deep Learning, Image Processing.     
+**`Algorithm  :`** ResNet.    
 
-##### **Responsibility:**
+##### **RESPONSIBILITIES:**
 * The task here is to build a image classification model which classifies the given image
 * Implemented different techniques to counter the imbalanced dataset as the data was imbalanced.
 * Used the AWS Rekognition to train the model and got the  evaluation metrics and also train another AWS Sagemaker built-in image classification algorithm model and got the metrics for it too.
@@ -87,8 +87,8 @@ Photo by <a href="https://unsplash.com/@dreamcatchlight?utm_source=unsplash&utm_
 ![MLOPS](glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg)  
 Photo by <a href="https://unsplash.com/@glenncarstenspeters?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Glenn Carstens-Peters</a> on <a href="https://unsplash.com/s/photos/machine-learning?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
-**`Tools:`** Python, Sagemaker Pipelines, Sagemaker Projects, Vertex AI(GCP), Kubeflow, Airflow.    
-**`Technology:`**  Machine Learning, Deep Learning.   
+**`Tools      :`** Python, Sagemaker Pipelines, Sagemaker Projects, Vertex AI(GCP), Kubeflow, Airflow, Docker.   
+**`Technology :`** Machine Learning, Deep Learning.   
 
 ##### **Responsibility:**
 * The task here is to research the MLOPS capabilities of AWS Sagemaker and GCP's Vertex AI.
@@ -103,10 +103,10 @@ Photo by <a href="https://unsplash.com/@glenncarstenspeters?utm_source=unsplash&
 ![pacing_rate](austin-distel-97HfVpyNR1M-unsplash.jpg)  
 Photo by <a href="https://unsplash.com/@austindistel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Austin Distel</a> on <a href="https://unsplash.com/s/photos/call-center?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
-**`Tools:`** Python, MongoDB.    
-**`Technology:`** Machine Learning, Time Series.     
+**`Tools      :`** Python, MongoDB.    
+**`Technology :`** Machine Learning, Time Series.     
 
-##### **Responsibility:**
+##### **RESPONSIBILITIES:**
 * The task here is to predict the pacing rate in order to automate the manual change of pacing rate in the call center application of the bank. 
 * Pacing rate determines how many outbound calls to dial for the particular time.
 * Did explanatory data analysis and time series analysis to find out the call acceptance pattern and time taken by the caller to accept and other features.
@@ -120,11 +120,11 @@ Photo by <a href="https://unsplash.com/@austindistel?utm_source=unsplash&utm_med
 ![emotion_detection](tengyart-dTgyj9okQ_w-unsplash.jpg)  
 Photo by <a href="https://unsplash.com/@tengyart?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tengyart</a> on <a href="https://unsplash.com/s/photos/emotion?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
-**`Tools:`** AWS EC2, Python, Flask.   
-**`Technology:`** Deep Learning, Image Processing.    
-**`Algorithm:`** Xception Network.    
+**`Tools      :`** AWS EC2, Python, Flask.   
+**`Technology :`** Deep Learning, Image Processing.    
+**`Algorithm  :`** Xception Network.    
 
-##### **Responsibility:**
+##### **RESPONSIBILITIES:**
 * The task here is, predict the emotion of the players playing the dart game in entertainment center.
 * Collected the images using the camera used to shoot the players while playing the game
 * Used different augmentation techniques to create more data for the training
@@ -140,11 +140,11 @@ Photo by <a href="https://unsplash.com/@tengyart?utm_source=unsplash&utm_medium=
 ![age_gender_det](nathan-dumlao-4_mJ1TbMK8A-unsplash.jpg)  
 Photo by <a href="https://unsplash.com/@nate_dumlao?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nathan Dumlao</a> on <a href="https://unsplash.com/s/photos/family?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
-**`Tools:`** Python.   
-**`Technology:`** Deep Learning, Image Processing.    
-**`Algorithm:`** MobileNet for Face Detection, ResNet for Gender Detection.    
+**`Tools      :`** Python.   
+**`Technology :`** Deep Learning, Image Processing.    
+**`Algorithm  :`** MobileNet for Face Detection, ResNet for Gender Detection.    
 
-##### **Responsibility:**
+##### **RESPONSIBILITIES:**
 * The task here is, predict the gender and age of the user to verify during the KYC process.
 * Collected dataset from various resources for both the application and received from client as well.
 * Implemented different techniques to counter the imbalanced dataset as the data was imbalanced.
@@ -157,11 +157,11 @@ Photo by <a href="https://unsplash.com/@nate_dumlao?utm_source=unsplash&utm_medi
 ![stencil_number](nazim-zafri-4dNGik9Itfg-unsplash.jpg)  
 Photo by <a href="https://unsplash.com/@nazimzafri?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nazim Zafri</a> on <a href="https://unsplash.com/s/photos/tyre?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
-**`Tools:`** Python, AWS EC2.    
-**`Technology:`** Machine Learning, Image Processing, Deep Learning.     
-**`Algorithm:`** OCR.    
+**`Tools      :`** Python, AWS EC2.    
+**`Technology :`** Machine Learning, Image Processing, Deep Learning.     
+**`Algorithm  :`** OCR.    
 
-##### **Responsibility:**
+##### **RESPONSIBILITIES:**
 * The task here is, extract the stencil number in the given image which contains tyres.
 * Tried different image processing techniques like smoothing, binarizing, edge detection, skew correction, dewaring, etc to extract the words out of it.
 * Tried to use AWS Textract and AWS rekognition to extract the words out of the image
@@ -174,11 +174,11 @@ Photo by <a href="https://unsplash.com/@nazimzafri?utm_source=unsplash&utm_mediu
 ![signature_verify](signature-pro-j5Qbe2TG6MU-unsplash.jpg)  
 Photo by <a href="https://unsplash.com/@signaturepro?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Signature Pro</a> on <a href="https://unsplash.com/s/photos/signature?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
-**`Tools:`** Python.   
-**`Technology:`**  Machine Learning, Deep Learning, Image Processing.    
-**`Algorithm:`** Yolov3, Siamese Network.   
+**`Tools      :`** Python.   
+**`Technology :`** Machine Learning, Deep Learning, Image Processing.    
+**`Algorithm  :`** Yolov3, Siamese Network.   
 
-##### **Responsibility:**
+##### **RESPONSIBILITIES:**
 * The task here is, extract the signature and verify the signature with the original signature
 * Trained Yolov3 to extract the signatures from the given image
 * Trained a siamese network model to verify whether both the images are similar or not.
@@ -190,11 +190,11 @@ Photo by <a href="https://unsplash.com/@signaturepro?utm_source=unsplash&utm_med
 ![Best_tool](greg-rosenke-xoxnfVIE7Qw-unsplash.jpg)  
 Photo by <a href="https://unsplash.com/@greg_rosenke?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Greg Rosenke</a> on <a href="https://unsplash.com/s/photos/manufacturing?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
-**`Tools:`** Python.   
-**`Technology:`** Machine Learning, Natural Language Processing.    
-**`Algorithm:`** Logistic Regression.    
+**`Tools      :`** Python.   
+**`Technology :`** Machine Learning, Natural Language Processing.    
+**`Algorithm  :`** Logistic Regression.    
 
-##### **Responsibility:**
+##### **RESPONSIBILITIES:**
 * The task here is, predict the best tool for the manufacturing process under certain operating conditions.
 * Given the text document, extract a features using regex and Natural language processing and save it as csv.
 * Tried different machine learning algorithm to figure out which model performs better for our metric.
