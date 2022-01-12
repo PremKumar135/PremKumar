@@ -23,7 +23,7 @@
 3. `Tools           :` Git, SQL, Sagemaker, Docker, Airflow, MongoDB, Kubeflow, Mlflow, ElasticSearch.
 4. `Cloud           :` AWS & its services.
 5. `Technologies    :` Machine Learning, Deep Learning, Computer Vision, NLP.
-6. `Major Libraries :` Numpy, Pandas, Matplotlib, Seaborn, cv2, NLTK, Librosa, BeautifulSoup, Dask.
+6. `Major Libraries :` Numpy, Pandas, Matplotlib, Seaborn, cv2, NLTK, Librosa, BeautifulSoup.
 
  ### **PROJECT 1: CHORUS DETECTION**  
 ---
