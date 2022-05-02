@@ -20,7 +20,7 @@
 ### **SKILLS:**
 1. `Languages       :` Python.
 2. `Frameworks      :` Flask, Scikit-Learn, Keras, Tensorflow, river.
-3. `Tools           :` Git, SQL, Sagemaker, Docker, Airflow, MongoDB, Kubeflow, Mlflow, ElasticSearch.
+3. `Tools           :` Git, SQL, Sagemaker, Docker, Airflow, MongoDB, DVC, Mlflow, ElasticSearch.
 4. `Cloud           :` AWS & its services.
 5. `Technologies    :` Machine Learning, Deep Learning, Computer Vision, NLP.
 6. `Major Libraries :` Numpy, Pandas, Matplotlib, Seaborn, cv2, NLTK, Librosa, BeautifulSoup.
@@ -82,7 +82,7 @@ Photo by <a href="https://unsplash.com/@dreamcatchlight?utm_source=unsplash&utm_
 
 ### **PROJECT 4: MLOPS PLATFORM**
 ---
-> **This work purely focused on MLOPS platform of different cloud vendors and their respective CI/CD capabilites and implement the features needed in Quantiphi MLOPS platform.**
+> **Worked on agile environment to built a MLOps platform where we built and tested an entire ML lifecycle using sagemaker BYOC, pipelines using Airflow for different ML use cases and helped organization to migrate their use cases to our platform.**
 
 ![MLOPS](glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg)  
 Photo by <a href="https://unsplash.com/@glenncarstenspeters?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Glenn Carstens-Peters</a> on <a href="https://unsplash.com/s/photos/machine-learning?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
@@ -91,10 +91,11 @@ Photo by <a href="https://unsplash.com/@glenncarstenspeters?utm_source=unsplash&
 **`Technology :`** Machine Learning, Deep Learning.   
 
 ##### **Responsibility:**
-* The task here is to research the MLOPS capabilities of AWS Sagemaker and GCP's Vertex AI.
-* Implemented a basic model using Sagemaker pipelines and Sagemaker projects to understand the inner workings of CI-CD on AWS platform
-* Implemented a basic model using Vertex AI pipelines and Kubeflow pipelines and the CI-CD capabilties in GCP.
-* Implemented a processing step, Algorithm step to create a pipeline for computer vision model in the Quantiphi MLOPS platform and orchestrated the workflow using Airflow.
+* Created a components for each ML lifecycle like processing, Training, Explainability and Monitoring using Sagemaker BYOC and Docker
+* Created a different pipelines for different tasks like Training, Retraining, Inference, create endpoint and Monitoring using Airflow.
+* Built a sample projects with each use cases like tabular, Computer Vision and NLP to test the entire ML lifecycle using the platform we created.
+* Documented the user manual for do's and dont's of components, pipelines and their inner working and how to create them on their own for their own use cases.
+* Helped organization to migrate their projects into our platform and gave them deep dive sessions for how to migrate them on their own.
 
 ### **PROJECT 5: PACING RATE PREDICTION**
 ---
