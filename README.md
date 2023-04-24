@@ -25,7 +25,7 @@
 5. `Technologies    :` Machine Learning, Deep Learning, Computer Vision, NLP.
 6. `Major Libraries :` Numpy, Pandas, Matplotlib, Seaborn, cv2, NLTK, Librosa, BeautifulSoup.
 
- ### **PROJECT 1: CHORUS DETECTION**  
+### **PROJECT 1: CHORUS DETECTION**  
 ---
 > **This project is a music retrieval system which is detecting the instances of chorus section in the music recording. Generally, chorus section in the audio represents the most repetitive part in the song.**
 
@@ -37,7 +37,7 @@ Photo by <a href="https://unsplash.com/@kellysikkema?utm_source=unsplash&utm_med
 **`Algorithm  :`** DBSCAN.  
 
 ##### **RESPONSIBILITIES:**
-* Given an audio, convert the audio into time-time similarity matrix and time-lag similarity matrix using  chorma features.
+* Given an audio, convert the audio into time-time similarity matrix and time-lag similarity matrix using chorma features.
 * Smoothing and binarize the similarity matrix using image processing techniques
 * Finding the clusters in the processed image which represents the similar parts in the audio.
 * Finding the matching chorus and trim the found choruses from the audio and split the audio into vocal component and Accompaniment component.
@@ -202,4 +202,28 @@ Photo by <a href="https://unsplash.com/@greg_rosenke?utm_source=unsplash&utm_med
 * Deployed the model into the production on on-prem devices.
 
 
- 
+### **PROJECT 11: Forecasting of Resource Utilization**
+---
+> **This project focused on forecasting the resource utilization for the telecom industry.**
+
+**`Tools      :`** Python, AWS Forecasting.   
+**`Technology :`** Machine Learning, Time Series Forecasting.    
+
+##### **RESPONSIBILITIES:**
+* The task here is, forecast the resource utilization for the given time interval.
+* Given the csv files which contain data of utilization of past. 
+* Tried different preprocessing techniques using Pandas and saved it a way AWS Forecasting demands it.
+* Build different models using AWS Forecasting to build forecasting model and compared the results.
+
+### **PROJECT 12: Migration of a machine learning model from GCP to AWS environment**
+---
+> **This project focused on migration of a ML model from GCP environment to AWS environment.**
+
+**`Tools      :`** Python, AWS Sagemaker, Docker.   
+**`Technology :`** Machine Learning.    
+
+##### **RESPONSIBILITIES:**
+* The task here is, to migrate the machine learning model which was deployed on GCP environment to AWS environment.
+* Used Sagemaker BYOC concept to migrate the model from GCP to AWS. 
+* Sagemaker BYOC expects a docker container which contains the environment for the model to be deployed, so created a dockerfile which does that.
+* Once the docker image has been created, the sagemaker endpoint has been created using the docker image and the model from the GCP environment.
