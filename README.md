@@ -1,5 +1,5 @@
 <!-- ![photo](mine.jpg)   -->
-<img style="float: right;" src="163555.JPG">  
+<img style="float: right;" src="imgonline-com-ua-resize-iMFL6lyMCZaC3__01.jpg">  
 
 # **PREM KUMAR.K**
 *Senior Data Scientist | Experience: 5+ yrs*  
