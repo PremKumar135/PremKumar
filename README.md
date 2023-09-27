@@ -1,8 +1,8 @@
 <!-- ![photo](mine.jpg)   -->
-<img style="float: right;" src="imgonline-com-ua-resize-iMFL6lyMCZaC3__01.jpg">  
+<img style="float: right;" src="163555.JPG">  
 
 # **PREM KUMAR.K**
-*Data Scientist | Experience: 4+ yrs*  
+*Senior Data Scientist | Experience: 5+ yrs*  
 
 #### **REACH ME:**
 **`Email:`** premkumarkaliyamoorthy@gmail.com  
@@ -206,7 +206,7 @@ Photo by <a href="https://unsplash.com/@greg_rosenke?utm_source=unsplash&utm_med
 ---
 > **This project focused on forecasting the resource utilization for the telecom industry.**
 
-**`Tools      :`** Python, AWS Forecasting.   
+**`Tools      :`** Python, AWS Forecast.   
 **`Technology :`** Machine Learning, Time Series Forecasting.    
 
 ##### **RESPONSIBILITIES:**
