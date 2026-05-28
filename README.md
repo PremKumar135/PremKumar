@@ -15,10 +15,14 @@
 3. `ArmsoftTech Air Pvt Ltd`, *Dec,2019 - Feb,2020*
 4. `Kryptos Technologies Pvt Ltd` , *Nov,2019 - Nov,2020*
 5. `Tata Consultancy Services` , *Jan,2017 - Mar, 2019*
+
+
 ### **EDUCATION:**
 * B.Tech in Mechanical Engineering, *Pondicherry University*, 2012-16, CGPA: *9.01/10*
 * Higher Secondary : 92.2%
 * High School : 92.6%
+
+
 ### **SKILLS:**
 1. `Languages               :` Python.
 2. `Backend Frameworks      :` FastAPI, Flask.
@@ -30,6 +34,19 @@
 8. `Cloud Technolgy         :` AWS & its services.
 9. `Technologies            :` Agentic AI, Generative AI, Machine Learning, Deep Learning, Computer Vision, NLP.
 10. `Other Notable Libraries:` Numpy, Pandas, Matplotlib, Seaborn, cv2, NLTK, Librosa, BeautifulSoup.
+
+
+### **Certifications**
+1. Machine Learning by Stanford University, Coursera
+2. Introduction to Langgraph, Langchain Academy
+3. Claude code in Action, Anthropic Courses
+4. Claude 101, Anthropic Courses
+
+
+### Accomplishments & Achievements
+* **Awards & Honors:** Received AWS Think Tank Award (Quantiphi) | Ranked 8th in university (Mechanical Engineering)
+* **Academic Excellence:** Secured 2nd rank overall in B.Tech in college | consistently ranked 1st/2nd throughout school.
+* **Athletics:** Represented Pondicherry State Cricket Team (Inter state zonals) and collegiate cricket team.
 
 
 
