@@ -43,7 +43,7 @@
 4. Claude 101, Anthropic Courses
 
 
-### Accomplishments & Achievements
+### **Accomplishments & Achievements**
 * **Awards & Honors:** Received AWS Think Tank Award (Quantiphi) and Ranked 8th in university (Mechanical Engineering)
 * **Academic Excellence:** Secured 2nd rank overall in B.Tech in college and consistently ranked 1st/2nd throughout school.
 * **Athletics:** Represented Pondicherry State Cricket Team (Inter state zonals) and collegiate cricket team.
