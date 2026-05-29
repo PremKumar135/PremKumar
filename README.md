@@ -239,6 +239,30 @@
 * Sagemaker BYOC expects a Docker container that contains the environment for the model to be deployed, so we created a Dockerfile that does that.
 * Once the Docker image has been created, the Sagemaker endpoint has been created using the Docker image and the model from the GCP environment.
 
+#### **PROJECT 10: Audio Deduplication using Audio Fingerprinting**
+> **This project focused on the deduplication of audio files using audio fingerprinting**  
+
+**`Tools      :`** Python, AWS Sagemaker, Docker.   
+**`Technology :`** Machine Learning. 
+   
+##### **RESPONSIBILITIES:**
+* Audio Conversion (STFT): Used Short-Time Fourier Transform (STFT) to turn raw audio into visual sound charts (spectrograms), capturing unique frequency peaks so the system could recognize tracks even with background noise.
+* Landmark Fingerprinting: Built a landmark-based fingerprinting system that paired these sound peaks into unique digital hashes, allowing the engine to identify duplicates regardless of changes in file format or bitrate.
+* Fast Searching (LSH): Indexed these digital fingerprints into a high-speed database using Locality-Sensitive Hashing (LSH), enabling the system to match incoming audio against millions of tracks in less than a second.
+* Storage Optimization: Automated the detection and removal of redundant audio assets within the data pipeline, significantly reducing duplicate data ingestion and lowering cloud storage infrastructure costs.
+
+#### **PROJECT 11: Translate R to Python for for data engineering team across teams internally**
+> **This project focused on the translation of R legacy codes to Python programminng language for internal teams**  
+
+**`Tools      :`** Python, AWS Bedrock.   
+**`Technology :`** Generative AI. 
+   
+##### **RESPONSIBILITIES:**
+* Code Translation (LLMs): Built an automated translation pipeline using LangChain and Amazon Bedrock LLMs to convert legacy R scripts into production-ready, standardized Python code.
+* Prompt Engineering: Designed specialized prompts and context-aware templates to ensure the LLM correctly mapped R-specific data structures (like dataframes and factors) into high-performance Python libraries (like Pandas and NumPy) 
+* Cross-Team Enablement: Deployed the solution as an internal tool, enabling diverse Data Engineering teams to migrate legacy codebase assets efficiently without manual rewriting.
+* Workflow Integration: Streamlined the migration process across business units, drastically reducing code conversion time, minimizing human translation errors, and unifying the company's data infrastructure on a single language stack.
+
 ## **ArmsoftTech Air Pvt Ltd** - *Dec,2019 - Feb,2020*
 #### **PROJECT 1: PACING RATE PREDICTION**
 > **This project focused on predicting the pacing rate, which helps to determine the number of outbound calls in a call center in a bank, in order to optimize the work force in the campaign.**  
