@@ -242,7 +242,7 @@
 #### **PROJECT 10: Audio Deduplication using Audio Fingerprinting**
 > **This project focused on the deduplication of audio files using audio fingerprinting**  
 
-**`Tools      :`** Python, AWS Sagemaker, Docker.   
+**`Tools      :`** Python, AWS Sagemaker.   
 **`Technology :`** Machine Learning. 
    
 ##### **RESPONSIBILITIES:**
