@@ -330,7 +330,7 @@
 
 ##### **RESPONSIBILITIES:**
 * The task here is to extract the signature and verify the signature with the original signature.
-* Trained Yolov3 to extract the signatures from the given image
+* Trained Yolov2 to extract the signatures from the given image
 * Trained a siamese network model to verify whether both images are similar or not.
 
 #### **PROJECT 3: System Administration**
